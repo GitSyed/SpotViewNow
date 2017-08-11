@@ -1,0 +1,6 @@
+framework module Pods_SpotView {
+  umbrella header "Pods-SpotView-umbrella.h"
+
+  export *
+  module * { export * }
+}
